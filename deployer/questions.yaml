@@ -1,0 +1,7 @@
+categories:
+  - application
+questions:
+  - variable: image.repository
+    label: Image
+    type: string
+    group: "General"
