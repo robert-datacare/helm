@@ -1,14 +1,12 @@
 apiVersion: v1
 entries:
-  deployer:
+  launcher:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-05-29T12:45:15.115994839-06:00"
     description: A Helm chart for Kubernetes
     digest: 04c5df7072854c78ce46b9c7b783498165f89c4166bbcd42cf9b9cbd0013bcae
-    name: deployer
+    name: launcher
     type: application
     urls:
-    - https://robert-datacare.github.io/helm/deployer-0.1.0.tgz
-    version: 0.1.0
-generated: "2023-05-29T12:45:15.11564696-06:00"
+    - https://robert-datacare.github.io/helm/new/launcher-0.2.0.tgz
+    version: 0.3.0
